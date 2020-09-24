@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,6 +187,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="module one" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="608" y="142" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1600987898609">
+      <screen x="0" y="27" width="1600" height="808" />
+    </state>
+    <state x="608" y="142" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1600.808@0.27.1600.808" timestamp="1600987898609" />
     <state x="641" y="322" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600966766929">
       <screen x="0" y="27" width="1600" height="808" />
     </state>
